@@ -1,4 +1,4 @@
-package com.oracle.corejava.project;
+package project;
 
 import java.util.InputMismatchException;
 import java.util.Random;

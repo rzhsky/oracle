@@ -1,4 +1,4 @@
-package com.oracle.corejava.project;
+package project;
 
 /**
  * @author rzh
